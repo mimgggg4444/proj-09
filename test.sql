@@ -15,4 +15,9 @@ CREATE TABLE EmergencyHospitals (
 위의 데이터는 
 https://www.data.go.kr/data/15000563/openapi.do
 위 사이트의 api데이터를 기반으로 스키마 생성하는 로직입니다.
+
+
+data베이스 생성 및 use 문 추가 안됨
+
+
 */
