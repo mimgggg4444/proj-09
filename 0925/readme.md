@@ -16,3 +16,11 @@ docker exec -it mysql-container bash
 
 mysql -u root -p
 
+
+<img width="815" alt="image" src="https://github.com/user-attachments/assets/0892b2c0-86eb-4f04-8762-28e136bb5143">
+
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/de0067cc-d281-4622-bc85-882e92d26dca">
+
+<img width="502" alt="image" src="https://github.com/user-attachments/assets/ff29a826-b2f4-4b3e-b60c-e99e37612281">
+
+SELECT * FROM EmergencyHospitals;
