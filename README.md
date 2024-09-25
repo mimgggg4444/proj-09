@@ -1,6 +1,8 @@
 # 읽어주세요
 
-
+```
+도움 받은 블로그 주소
+https://blog.naver.com/minnki19/223462031181
 ```
 test.sql파일은 
 https://www.data.go.kr/data/15000563/openapi.do
