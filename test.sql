@@ -1,3 +1,7 @@
+CREATE DATABASE IF NOT EXISTS `emergency_db`;
+use `emergency_db`;
+
+
 CREATE TABLE EmergencyHospitals (
     hpid VARCHAR(20) PRIMARY KEY,
     dutyName VARCHAR(100),
