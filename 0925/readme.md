@@ -7,6 +7,12 @@
 
 
 apt update
+
 apt install libxml2-utils
 
+docker run --name mysql-container -e MYSQL_ROOT_PASSWORD=your_password -d mysql:8.0
+
+docker exec -it mysql-container bash
+
+mysql -u root -p
 
